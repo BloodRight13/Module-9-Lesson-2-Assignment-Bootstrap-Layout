@@ -1,0 +1,82 @@
+/* Task 2 */
+.featurette {
+    padding: 20px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    transition: transform 0.3s;
+}
+  
+.featurette:hover {
+    transform: translateY(-10px);
+}
+
+.feature-icon {
+    width: 60px;
+    height: 60px;
+}
+  
+.feature-heading {
+    font-size: 1.5em;
+    margin-top: 10px;
+}
+  
+.feature-text {
+    font-size: 1em;
+    color: #666;
+}
+
+/* Task 3 */
+.about-main {
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+}
+  
+.about-sidebar {
+    padding: 20px;
+    background-color: #e9ecef;
+    border-radius: 8px;
+}
+  
+.about-sidebar h3 {
+    margin-bottom: 15px;
+}
+  
+.about-sidebar ul {
+    padding-left: 0;
+}
+  
+.about-sidebar li {
+    margin-bottom: 10px;
+}
+  
+.about-sidebar a {
+    text-decoration: none;
+    color: #007bff;
+}
+  
+.about-sidebar a:hover {
+    text-decoration: underline;
+}
+
+/* Task 4 */
+.footer {
+    background-color: #343a40;
+}
+  
+.footer h5 {
+    margin-bottom: 15px;
+}
+  
+.footer p, .footer a {
+    color: #adb5bd;
+}
+  
+.footer a:hover {
+    color: #ffffff;
+    text-decoration: none;
+}
+  
+.footer .form-control {
+    margin-bottom: 10px;
+}
